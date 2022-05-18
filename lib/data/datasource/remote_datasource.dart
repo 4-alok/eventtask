@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:eventtask/data/repository/api_repository.dart';
+import '../repository/api_repository.dart';
 
 class RemoteDatasource implements ApiRepository {
   late final Dio dio;

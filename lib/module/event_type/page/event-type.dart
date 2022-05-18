@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:eventtask/global/widget/styles.dart';
+import '../../../global/widget/styles.dart';
 
 import '../controller/event_type_controller.dart';
 

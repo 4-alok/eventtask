@@ -14,7 +14,7 @@ class RepositoryImpl implements ApiRepository {
   Future updateEvent(Map<String, dynamic> data) {
     return remoteDatasource.updateEvent(data);
   }
-  
+
   @override
   Future uploadImage(Map<String, dynamic> data) {
     return remoteDatasource.uploadImage(data);

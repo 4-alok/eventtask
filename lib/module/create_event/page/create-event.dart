@@ -1,4 +1,4 @@
-import 'package:eventtask/global/widget/styles.dart';
+import '../../../global/widget/styles.dart';
 import 'package:flutter/material.dart';
 
 import '../controller/create_event_controller.dart';
